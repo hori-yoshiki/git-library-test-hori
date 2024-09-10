@@ -1,3 +1,3 @@
 def hello_world():
-    print("Hello, world!")
-    return "Hello, world!!"
+    print("Hello, google!")
+    return "Hello, google!!"
